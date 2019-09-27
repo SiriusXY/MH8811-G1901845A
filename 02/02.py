@@ -7,4 +7,4 @@ print('Hello,{}!'.format(Name))
 
 C=float(input('Input the Celsius:'))
 F=C*1.8+32
-print(F)
+print('The corresponding Fahrenheit temperature is : {}'.format(F))
